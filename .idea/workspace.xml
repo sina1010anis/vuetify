@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ae1957a-ca5c-43e8-9225-efe6378b5654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/data/image/laravel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data/image/vuetify.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -169,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621097027843</updated>
       <workItem from="1621097029662" duration="615000" />
-      <workItem from="1621138240468" duration="1253000" />
+      <workItem from="1621138240468" duration="1551000" />
     </task>
     <servers />
   </component>
